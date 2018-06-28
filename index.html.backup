@@ -120,12 +120,9 @@
     
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
-
- 
-	<section id="mt_about">
-        <div class="container">
-		
-		  <div class="row">
+	
+ <div class="container">
+            <div class="row">
                 <div class="col-sm-6">
                     <div class="about_services">
                         <h2 class="section_heading">
@@ -135,9 +132,10 @@
                         </div>
                         </div>
                         </div>
-						
-						<hr>
-						<br>
+                        </div>
+ 
+	<section id="mt_about">
+        <div class="container">
             <div class="row">
                 <div class="col-sm-6">
                     <div class="about_services">
